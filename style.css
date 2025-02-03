@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
     background: #ffe6e6;
@@ -18,3 +19,25 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+=======
+body {
+    font-family: Arial, sans-serif;
+    background: #ffe6e6;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+button {
+    padding: 10px 20px;
+    background: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+>>>>>>> feb39a9327677955b0288dadb0bf1033bcbc4750
